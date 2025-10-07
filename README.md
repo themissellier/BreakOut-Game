@@ -45,3 +45,6 @@ The player controls a paddle to bounce a ball and break all the bricks on screen
 
 ## 📸 Screenshots
 <img src="images/start.jpg" width="350"/>	<img src="images/gameplay.jpg" width="350"/>
+
+#
+Here you can find more of my projects : https://github.com/themissellier/My-projects
