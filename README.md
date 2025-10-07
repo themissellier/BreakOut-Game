@@ -44,6 +44,4 @@ The player controls a paddle to bounce a ball and break all the bricks on screen
   - ⚪ Ball trajectory modifiers  
 
 ## 📸 Screenshots
-Menu	Gameplay
-
-<img src="images/start.jpg" width="350"/>	<img src="images/gameplay.png" width="350"/>
+<img src="images/start.jpg" width="350"/>	<img src="images/gameplay.jpg" width="350"/>
